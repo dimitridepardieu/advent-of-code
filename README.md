@@ -1,6 +1,6 @@
-# Advent of Code 2023
+# Advent of Code
 
-This repository contains my solutions for Advent of Code 2023 challenges.
+This repository contains my solutions for Advent of Code challenges.
 
 Advent of Code is an annual event where programmers solve a series of interesting and educational puzzles. Each day in December leading up to Christmas, a new puzzle is released.
 
